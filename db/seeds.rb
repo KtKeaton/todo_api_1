@@ -7,5 +7,5 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 10.times do
-    Todo.create(task: "從 seed 建立的 task")
+    Todo.create(task: "從 seed 建立的 task NEW")
 end
